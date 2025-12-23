@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Genos:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    background-color: #050505;
+}
+.contador-conteiner {
+    text-align: center;
+    font-family: 'Genos', sans-serif;
+    border: 2px solid yellowgreen;
+    padding: 20px;
+    border-radius: 25%;
+    width: 200px;
+    justify-self: center;
+    color: yellowgreen;
+    background-color: #050505;
+}
+
+.contador-valor {
+font-size: 3rem;
+margin: 10px 0;
+}
+
+.Controles {
+padding: 20px;
+cursor: pointer;
+margin: 2px;
+}

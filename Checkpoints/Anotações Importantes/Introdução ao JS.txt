@@ -1,0 +1,7 @@
+O Java é uma linguagem de alto nivel, orientada a objetos. 
+Baseada em classes e feita para ter o minimo de dependêndias de implementação possível.
+Seu 'lema' é "Write Once, Run Anywhere", que significa "Escreva uma vez, execute em qualquer lugar".
+Principais componentes 
+-JDK
+-JRE
+-JVM

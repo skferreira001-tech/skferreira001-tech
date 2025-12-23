@@ -1,4 +1,4 @@
-Recentemente aprendi que o GIT é uma CLI(Command Line Interface),
+O GIT é uma CLI(Command Line Interface),
 usada para controle de versão através de comandos digitados no terminal, 
-e que o GitHub é uma plataforma de desenvolvimento em conjunto, onde pode se
+O GitHub é uma plataforma de desenvolvimento em conjunto, onde pode se
 gerenciar e melhorar códigos em conlaboração com outros dev's.
