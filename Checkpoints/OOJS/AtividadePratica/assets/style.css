@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Genos:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color:whitesmoke;
+    font-family: 'Genos';
+
+}
+
+#butao {
+    width: 100px;
+    height: 35px;
+    border-radius: 15px;
+    background-color: black;
+    color: yellowgreen;
+    font-family: 'Genos';
+    margin-left: 25px;
+}

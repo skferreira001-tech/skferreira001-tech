@@ -1,0 +1,7 @@
+function changeMode() {
+    console.log('cliquei!');
+}
+
+const button = document.getElementById('botao');
+
+button.addEventListener('click', changeMode);
